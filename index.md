@@ -26,14 +26,14 @@ TBA.
 
 ### Registration
 
-TBA
+TBA.
 
 ### Organizers
 
 * [Bob Atkey](https://bentnib.org), University of Strathclyde
 * [James Chapman](https://jmchapman.github.io), University of Strathclyde
 * [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/), University of Strathclyde
-* [Fredrik Nordvall Forsber](https://personal.cis.strath.ac.uk/fredrik.nordvall-forsberg/), University of Strathclyde
+* [Fredrik Nordvall Forsberg](https://personal.cis.strath.ac.uk/fredrik.nordvall-forsberg/), University of Strathclyde
 
 
 
