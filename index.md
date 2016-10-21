@@ -22,7 +22,19 @@ via the SPLS Mailing List.
 
 ### Programme
 
-TBA.
+|When   | What                                                                                          |
+|-------|-----------------------------------------------------------------------------------------------|
+| 12.00 | Lunch                                                                                         |
+| 13.00 | Consistency of Quine's NF using nominal techniques - Jamie Gabbay                             |
+| 14.00 | Coffee                                                                                        |
+| 14.30 | Relating Channels and Actor-based Languages in Concurrent Lambda-Calculi - Simon Fowler       |                           
+| 15.00 | Provably Correct Transformation of Specifications into Programs - Martin Fowler               |
+| 15.30 | Update on new SICSA Research Themes and funding - Katya Komendantskaya                        |
+| 15.45 | Coffee                                                                                        |
+| 16.15 | Type-Driven Design of Communicating Systems using Idris - Jan de Muijnck                      |
+| 16.45 | The essence of Frank programming - Craig McLaughlin                                           |
+| 17.15 | An Operational Semantics for Multicasting Systems with Monotonic Values - Hossein Haeri [TBC] |
+| 17.45 | Pub                                                                                           |
 
 ### Registration
 
