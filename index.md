@@ -131,7 +131,7 @@ result for our operational semantics.
 
 ### Registration
 
-TBA.
+Please register using this [form](https://goo.gl/forms/Fngd3qYbwh4lDtjm2).
 
 ### Organizers
 
@@ -140,5 +140,6 @@ TBA.
 * [Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/), University of Strathclyde
 * [Fredrik Nordvall Forsberg](https://personal.cis.strath.ac.uk/fredrik.nordvall-forsberg/), University of Strathclyde
 
+### Acknowledgements
 
-
+This meeting of SPLS has received financial support from the [Theory, Modelling and Computation theme](http://www.sicsa.ac.uk/research/theory-modelling-computation/) of the [Scottish Informatics and Computer Science Alliance](http://www.sicsa.ac.uk/).
