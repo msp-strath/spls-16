@@ -92,7 +92,16 @@ up to the development of large and complex software systems.
 
 ##### Type-Driven Design of Communicating Systems using Idris
 
-TBA
+The idea of communicating systems is a cornerstone of modern technology that allows heterogeneous collections of components to communicate through well-defined communication patterns.
+However, there is a disconnect between the tooling and languages used to design, implement and reason about communication protocols.
+
+Idris is a general purpose programming language that supports full-dependent types, providing programmers with the ability to reason more precisely about programs.
+Inspired by work on Session types, our research looks to leverage dependent types to describe and reason about secure communication patterns and their implementation in different communication contexts.
+
+This talk presents our current progress and introduces *sessions*, a library for describing, and reasoning about, the interactions of a communicating system.
+Demonstrated is use of *sessions* to describe common communication patterns, and how the library enforces correctness of the pattern itself through type-level guarantees.
+
+Given time future work will also be presented detailing our next steps in linking these descriptions to implementations such that compile time correctness guarantees over the actions of an entity in a communicating system can be given respective to a known specification.
 
 #### Craig McLaughlin (Edinburgh)
 
