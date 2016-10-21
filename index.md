@@ -35,6 +35,106 @@ via the SPLS Mailing List.
 | 16.45 | The essence of Frank programming - Craig McLaughlin                                           |
 | 17.15 | An Operational Semantics for Multicasting Systems with Monotonic Values - Hossein Haeri [TBC] |
 | 17.45 | Pub                                                                                           |
+### Abstracts
+
+#### Jamie Gabbay (Heriot-Watt)
+
+Title: Consistency of Quine's NF using nominal techniques
+
+Abstract:
+
+Naive set theory has one rule; naive sets comprehension: If φ is a predicate, then {a | φ(a)} is a set. This is inconsistent by Bertrand Russell’s famous observation of 1901 that {a | a ∉ a} ∈ {a | a ∉ a} if and only if {a | a ∉ a} ∉ {a | a ∉ a}.
+Solutions proposed included Zermelo-Fraenkel set theory, simple type theory, and Quine’s New Foundations (NF). NF works by restricting comprehension to stratifiable formulae; those in which variables can be assigned ‘levels’, which are natural numbers, such that if a ∈ b occurs and a has level n, then b must have level n+1. Russell’s example is ruled out because a ∉ a cannot be stratified. Consistency of NF has been an open problem since it was proposed by Quine in 1937.  I will present a claimed proof of consistency of Quine’s NF (the paper is available from www.gabbay.org.uk/papers.html and on arXiv, and is under review). In use, NF feels more like a simple type theory than it does a set theory, and there are deep reasons for this which come out in my proof.  My proof, while ostensibly about set theory, is actually about applying ideas from rewriting and computing to ideas from set theory, along with a pinch of non-Tarskian thinking about what binders (including forall and lambda) are. In my talk I will present the proof with an emphasis on the implications that this specific result has more generally for the theory of computing.
+
+#### Simon Fowler (Edinburgh)
+
+Title: Relating Channels and Actor-based Languages in Concurrent Lambda-Calculi
+
+Abstract:
+
+To aid the development of highly-concurrent and distributed systems,
+communication-centric programming languages take communication and
+concurrency to be central to their design.
+Programming languages such as Go provide anonymous processes which communicate
+using typed buffers known as channels, whereas programming languages such as
+Erlang are related to the actor model of concurrency, providing addressable
+processes with a single incoming message queue.
+
+The relationship between the two models remains a source of confusion, and the
+lack of a common representation makes it difficult to reason formally about the
+translations that exist in the folklore.
+Building on concurrent λ-calculi, we define a calculus λch for typed asynchronous
+channels, and a calculus λact for type-parameterised actors.  We then show
+translations from λact into λch and λch into λact, and prove
+that both translations are type- and semantics-preserving.
+
+(joint work with Sam Lindley and Philip Wadler)
+
+#### Martin Ward (De Montfort University)
+
+Title: Provably Correct Transformation of Specifications into Programs
+
+Abstract:
+
+This talk will introduce the transformational programming method
+of algorithm derivation. This starts with a formal specification
+of the result to be achieved, plus some informal ideas as to what
+techniques will be used in the implementation.
+The formal specification is then transformed into an implementation,
+by means of correctness-preserving refinement and transformation steps,
+guided by the informal ideas.
+
+With this approach, loops can be introduced and manipulated
+while maintaining program correctness and with no need
+to derive loop invariants.  At every stage in the process
+we are working with a correct program: so there is no need
+for a separate "verification" step.
+
+These factors help to ensure that the method is capable of scaling
+up to the development of large and complex software systems.
+
+#### Jan de Muijnck (St Andrews)
+
+Title: Type-Driven Design of Communicating Systems using Idris
+
+Abstract: TBA
+
+#### Craig McLaughlin (Edinburgh)
+
+Title: The essence of Frank programming
+
+Abstract: Frank is a strict functional language supporting algebraic effects
+(a la Plotkin & Power) and handlers (a la Plotkin & Pretnar) within an
+effect
+type system. Key to the design is the generalisation of functions to
+*operators* which may handle effects by pattern matching on computation
+trees. Operators are n-ary allowing the simultaneous handling of multiple
+computations. I will describe the key features of Frank by way of example,
+showing its similarities to regular functional programming and its
+differences. I will highlight the conveniences afforded by some of the
+design
+choices, in particular achieving effect polymorphism while avoiding the need
+to mention effect variables. I will describe the current implementation of
+Frank and how we have leveraged existing technology in its
+development. Finally, I will speculate on some future work. (Joint work with
+Sam Lindley and Conor McBride to appear at POPL 2017.)
+
+#### Hossein Haeri (Université Catholique de Louvain) (TBC)
+
+Title: An Operational Semantics for Multicasting Systems with Monotonic Values
+
+Abstract:
+
+We present an operational semantics as a simplified model for edge
+computing: Nodes can leave and join any time; each node performs
+computations independently, but, can also wait for values to arrive
+from peers; nodes can multicast to one another; and, most importantly,
+values can only grow monotonically. We prove an eventual consistency
+result for our operational semantics.
+
+#### Katya Komendantskaya (Heriot-Watt University)
+
+Title: Update on new SICSA Research Themes and funding
 
 ### Registration
 
