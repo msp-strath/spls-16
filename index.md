@@ -18,7 +18,7 @@ Information and updates about the November edition of SPLS will be sent
 via the SPLS Mailing List.
 
 ### Time and place
-12:00--17:45, room 319, McCance Building, University of Strathclyde.
+12:00--17:15 9 November, room 319, McCance Building, University of Strathclyde.
 
 ### Programme
 
@@ -33,8 +33,7 @@ via the SPLS Mailing List.
 | 15.45 | Coffee                                                                                        |
 | 16.15 | Type-Driven Design of Communicating Systems using Idris - Jan de Muijnck                      |
 | 16.45 | The essence of Frank programming - Craig McLaughlin                                           |
-| 17.15 | An Operational Semantics for Multicasting Systems with Monotonic Values - Hossein Haeri [TBC] |
-| 17.45 | Pub                                                                                           |
+| 17.15 | Pub                                                                                           |
 
 ### Abstracts
 
@@ -122,17 +121,6 @@ to mention effect variables. I will describe the current implementation of
 Frank and how we have leveraged existing technology in its
 development. Finally, I will speculate on some future work. (Joint work with
 Sam Lindley and Conor McBride to appear at POPL 2017.)
-
-#### Hossein Haeri (Université Catholique de Louvain) (TBC)
-
-##### An Operational Semantics for Multicasting Systems with Monotonic Values
-
-We present an operational semantics as a simplified model for edge
-computing: Nodes can leave and join any time; each node performs
-computations independently, but, can also wait for values to arrive
-from peers; nodes can multicast to one another; and, most importantly,
-values can only grow monotonically. We prove an eventual consistency
-result for our operational semantics.
 
 #### Katya Komendantskaya (Heriot-Watt University)
 
