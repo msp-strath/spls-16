@@ -18,13 +18,13 @@ Information and updates about the November edition of SPLS will be sent
 via the SPLS Mailing List.
 
 ### Time and place
-12:00--17:15 9 November, room 319, McCance Building, University of Strathclyde.
+12:00--17:45, 9 November, room 319, [McCance Building](https://goo.gl/maps/2JjoPR6FvY82), University of Strathclyde.
 
 ### Programme
 
 |When   | What                                                                                          |
 |-------|-----------------------------------------------------------------------------------------------|
-| 12.00 | Lunch                                                                                         |
+| 12.00 | Lunch (provided)                                                                              |
 | 13.00 | Consistency of Quine's NF using nominal techniques - Jamie Gabbay                             |
 | 14.00 | Coffee                                                                                        |
 | 14.30 | Relating Channels and Actor-based Languages in Concurrent Lambda-Calculi - Simon Fowler       |
@@ -33,18 +33,19 @@ via the SPLS Mailing List.
 | 15.45 | Coffee                                                                                        |
 | 16.15 | Type-Driven Design of Communicating Systems using Idris - Jan de Muijnck                      |
 | 16.45 | The essence of Frank programming - Craig McLaughlin                                           |
-| 17.15 | Pub                                                                                           |
+| 17.15 | TBA                                                                                           |
+| 17.45 | Pub                                                                                           |
 
 ### Abstracts
 
-#### Jamie Gabbay (Heriot-Watt)
+#### [Jamie Gabbay](http://www.gabbay.org.uk/) (Heriot-Watt)
 
 ##### Consistency of Quine's NF using nominal techniques
 
 Naive set theory has one rule; naive sets comprehension: If φ is a predicate, then {a | φ(a)} is a set. This is inconsistent by Bertrand Russell’s famous observation of 1901 that {a | a ∉ a} ∈ {a | a ∉ a} if and only if {a | a ∉ a} ∉ {a | a ∉ a}.
 Solutions proposed included Zermelo-Fraenkel set theory, simple type theory, and Quine’s New Foundations (NF). NF works by restricting comprehension to stratifiable formulae; those in which variables can be assigned ‘levels’, which are natural numbers, such that if a ∈ b occurs and a has level n, then b must have level n+1. Russell’s example is ruled out because a ∉ a cannot be stratified. Consistency of NF has been an open problem since it was proposed by Quine in 1937.  I will present a claimed proof of consistency of Quine’s NF (the paper is available from www.gabbay.org.uk/papers.html and on arXiv, and is under review). In use, NF feels more like a simple type theory than it does a set theory, and there are deep reasons for this which come out in my proof.  My proof, while ostensibly about set theory, is actually about applying ideas from rewriting and computing to ideas from set theory, along with a pinch of non-Tarskian thinking about what binders (including forall and lambda) are. In my talk I will present the proof with an emphasis on the implications that this specific result has more generally for the theory of computing.
 
-#### Simon Fowler (Edinburgh)
+#### [Simon Fowler](http://simonjf.com/) (Edinburgh)
 
 ##### Relating Channels and Actor-based Languages in Concurrent Lambda-Calculi
 
@@ -66,7 +67,7 @@ that both translations are type- and semantics-preserving.
 
 (joint work with Sam Lindley and Philip Wadler)
 
-#### Martin Ward (De Montfort University)
+#### [Martin Ward](http://www.tech.dmu.ac.uk/~mward/) (De Montfort University)
 
 ##### Provably Correct Transformation of Specifications into Programs
 
@@ -87,7 +88,7 @@ for a separate "verification" step.
 These factors help to ensure that the method is capable of scaling
 up to the development of large and complex software systems.
 
-#### Jan de Muijnck (St Andrews)
+#### [Jan de Muijnck](https://jfdm.github.io/) (St Andrews)
 
 ##### Type-Driven Design of Communicating Systems using Idris
 
@@ -102,7 +103,7 @@ Demonstrated is use of *sessions* to describe common communication patterns, and
 
 Given time future work will also be presented detailing our next steps in linking these descriptions to implementations such that compile time correctness guarantees over the actions of an entity in a communicating system can be given respective to a known specification.
 
-#### Craig McLaughlin (Edinburgh)
+#### [Craig McLaughlin](http://homepages.inf.ed.ac.uk/s1544843/) (Edinburgh)
 
 ##### The essence of Frank programming
 
@@ -122,7 +123,7 @@ Frank and how we have leveraged existing technology in its
 development. Finally, I will speculate on some future work. (Joint work with
 Sam Lindley and Conor McBride to appear at POPL 2017.)
 
-#### Katya Komendantskaya (Heriot-Watt University)
+#### [Katya Komendantskaya](http://www.macs.hw.ac.uk/~ek19/) (Heriot-Watt University)
 
 ##### Update on new SICSA Research Themes and funding
 
