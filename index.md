@@ -28,7 +28,7 @@ via the SPLS Mailing List.
 | 13.00 | Consistency of Quine's NF using nominal techniques - Jamie Gabbay                             |
 | 14.00 | Coffee                                                                                        |
 | 14.30 | Relating Channels and Actor-based Languages in Concurrent Lambda-Calculi - Simon Fowler       |
-| 15.00 | Provably Correct Transformation of Specifications into Programs - Martin Fowler               |
+| 15.00 | Provably Correct Transformation of Specifications into Programs - Martin Ward                 |
 | 15.30 | Update on new SICSA Research Themes and funding - Katya Komendantskaya                        |
 | 15.45 | Coffee                                                                                        |
 | 16.15 | Type-Driven Design of Communicating Systems using Idris - Jan de Muijnck                      |
