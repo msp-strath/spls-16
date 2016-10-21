@@ -154,3 +154,5 @@ Please register using this [form](https://goo.gl/forms/Fngd3qYbwh4lDtjm2).
 This meeting of SPLS has received financial support from the
 [Theory, Modelling and Computation theme](http://www.sicsa.ac.uk/research/theory-modelling-computation/)
 of the [Scottish Informatics and Computer Science Alliance](http://www.sicsa.ac.uk/).
+
+![SICSA logo](sicsa_blue.jpg "SICSA logo")
