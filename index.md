@@ -18,7 +18,7 @@ Information and updates about the November edition of SPLS will be sent
 via the SPLS Mailing List.
 
 ### Time and place
-12:00--18:00, room 319, McCance Building, University of Strathclyde.
+12:00--17:45, room 319, McCance Building, University of Strathclyde.
 
 ### Programme
 
