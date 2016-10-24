@@ -31,7 +31,7 @@ via the SPLS Mailing List.
 | 15.00 | Provably Correct Transformation of Specifications into Programs - Martin Ward                 |
 | 15.30 | Update on new SICSA Research Themes and funding - Katya Komendantskaya                        |
 | 15.45 | Coffee                                                                                        |
-| 16.15 | Type-Driven Design of Communicating Systems using Idris - Jan de Muijnck                      |
+| 16.15 | Type-Driven Design of Communicating Systems using Idris - Jan de Muijnck-Hughes               |
 | 16.45 | The essence of Frank programming - Craig McLaughlin                                           |
 | 17.15 | TBA                                                                                           |
 | 17.45 | Pub                                                                                           |
@@ -88,7 +88,7 @@ for a separate "verification" step.
 These factors help to ensure that the method is capable of scaling
 up to the development of large and complex software systems.
 
-#### [Jan de Muijnck](https://jfdm.github.io/) (St Andrews)
+#### [Jan de Muijnck-Hughes](https://jfdm.github.io/) (St Andrews)
 
 ##### Type-Driven Design of Communicating Systems using Idris
 
