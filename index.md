@@ -123,7 +123,7 @@ Frank and how we have leveraged existing technology in its
 development. Finally, I will speculate on some future work. (Joint work with
 Sam Lindley and Conor McBride to appear at POPL 2017.)
 
-#### [Katya Komendantskaya](http://www.macs.hw.ac.uk/~ek19/) (Heriot-Watt University)
+#### [Katya Komendantskaya](http://www.macs.hw.ac.uk/~ek19/) (Heriot-Watt)
 
 ##### Update on new SICSA Research Themes and funding
 
