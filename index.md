@@ -9,13 +9,12 @@ layout: default
 
 ### About SPLS
 
-The Scottish Programming Languages Seminar is an informal meeting for
-the discussion of any aspect of programming languages. The next SPLS
-will take place on Wednesday 9 November at the University of
-Strathclyde.
+The [Scottish Programming Languages Seminar](http://www.dcs.gla.ac.uk/research/spls/)
+is an informal meeting for the discussion of any aspect of programming languages.
+The next SPLS will take place on Wednesday 9 November at the University of Strathclyde.
 
 Information and updates about the November edition of SPLS will be sent
-via the SPLS Mailing List.
+via the [SPLS Mailing List](https://mr1.dcs.gla.ac.uk/mailman/listinfo/spls).
 
 ### Time and place
 12:00--17:45, 9 November, room 319, [McCance Building](https://goo.gl/maps/2JjoPR6FvY82), University of Strathclyde.
