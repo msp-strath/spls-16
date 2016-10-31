@@ -36,7 +36,7 @@ Please register using this [form](https://goo.gl/forms/Fngd3qYbwh4lDtjm2).
 | 15.45 | Coffee                                                                                        |
 | 16.15 | Type-Driven Design of Communicating Systems using Idris - Jan de Muijnck-Hughes               |
 | 16.45 | The essence of Frank programming - Craig McLaughlin                                           |
-| 17.15 | TBA                                                                                           |
+| 17.15 | TBA - Stephen Dolan                                                                           |
 | 17.45 | Pub                                                                                           |
 
 ## Abstracts
@@ -125,6 +125,10 @@ to mention effect variables. I will describe the current implementation of
 Frank and how we have leveraged existing technology in its
 development. Finally, I will speculate on some future work. (Joint work with
 Sam Lindley and Conor McBride to appear at POPL 2017.)
+
+### [Stephen Dolan](https://github.com/stedolan) (Cambridge)
+
+#### TBA
 
 ### [Katya Komendantskaya](http://www.macs.hw.ac.uk/~ek19/) (Heriot-Watt)
 
