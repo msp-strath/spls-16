@@ -36,7 +36,7 @@ Please register using this [form](https://goo.gl/forms/Fngd3qYbwh4lDtjm2).
 | 15.45 | Coffee                                                                                        |
 | 16.15 | Type-Driven Design of Communicating Systems using Idris - Jan de Muijnck-Hughes               |
 | 16.45 | The essence of Frank programming - Craig McLaughlin                                           |
-| 17.15 | TBA - Stephen Dolan                                                                           |
+| 17.15 | Irrelevant classical logic in Agda - Stephen Dolan                                            |
 | 17.45 | Pub                                                                                           |
 
 ## Abstracts
@@ -128,7 +128,27 @@ Sam Lindley and Conor McBride to appear at POPL 2017.)
 
 ### [Stephen Dolan](https://github.com/stedolan) (Cambridge)
 
-#### TBA
+#### Irrelevant classical logic in Agda
+
+The dependently-typed programming language Agda, viewed through a
+Curry-Howard lens, implements a constructive logic where a proof that
+something exists is simultaneously a program for building it.
+Classical principles, like double-negation elimination, are not
+derivable in such a system: the absurdity of something's absence gives
+no clue of how to build it.
+
+Recently, Agda has gained a sophisticated notion of "irrelevance",
+where certain inputs to a program can be marked as not necessary to
+compute the result. By assuming classical axioms only in irrelevant
+positions, we allow some non-constructive reasoning without breaking
+constructiveness of the whole program, since the non-constructive
+parts need not be computed.
+
+In this talk, I show how allowing this mixture of classical and
+constructive in fact adds power to the purely constructive fragment of
+Agda, by showing how to derive functions like the unbounded search
+operator which are constructive, yet whose constructiveness can only
+be shown classically.
 
 ### [Katya Komendantskaya](http://www.macs.hw.ac.uk/~ek19/) (Heriot-Watt)
 
