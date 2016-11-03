@@ -21,7 +21,7 @@ via the [SPLS Mailing List](https://mr1.dcs.gla.ac.uk/mailman/listinfo/spls).
 Please register using this [form](https://goo.gl/forms/Fngd3qYbwh4lDtjm2).
 
 ## Time and place
-12:00--17:45, 9 November, room 319, [McCance Building](https://goo.gl/maps/2JjoPR6FvY82), University of Strathclyde.
+12:00--17:45, 9 November, [McCance Building](https://goo.gl/maps/2JjoPR6FvY82), University of Strathclyde.
 
 ## Programme
 
