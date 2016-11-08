@@ -16,12 +16,8 @@ The next SPLS will take place on Wednesday 9 November at the University of Strat
 Information and updates about the November edition of SPLS will be sent
 via the [SPLS Mailing List](https://mr1.dcs.gla.ac.uk/mailman/listinfo/spls).
 
-## Registration
-
-Please register using this [form](https://goo.gl/forms/Fngd3qYbwh4lDtjm2).
-
 ## Time and place
-12:00--17:45, 9 November, [McCance Building](https://goo.gl/maps/2JjoPR6FvY82), University of Strathclyde.
+12:00--17:45, 9 November, room **301**, [McCance Building](https://goo.gl/maps/2JjoPR6FvY82), University of Strathclyde.
 
 ## Programme
 
@@ -153,6 +149,10 @@ be shown classically.
 ### [Katya Komendantskaya](http://www.macs.hw.ac.uk/~ek19/) (Heriot-Watt)
 
 #### Update on new SICSA Research Themes and funding
+
+## Registration
+
+Registration is now closed.
 
 ## Organizers
 
