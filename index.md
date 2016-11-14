@@ -39,14 +39,14 @@ via the [SPLS Mailing List](https://mr1.dcs.gla.ac.uk/mailman/listinfo/spls).
 
 ### [Jamie Gabbay](http://www.gabbay.org.uk/) (Heriot-Watt)
 
-#### Consistency of Quine's NF using nominal techniques
+#### [Consistency of Quine's NF using nominal techniques](slides/Gabbay.pdf)
 
 Naive set theory has one rule; naive sets comprehension: If φ is a predicate, then {a | φ(a)} is a set. This is inconsistent by Bertrand Russell’s famous observation of 1901 that {a | a ∉ a} ∈ {a | a ∉ a} if and only if {a | a ∉ a} ∉ {a | a ∉ a}.
 Solutions proposed included Zermelo-Fraenkel set theory, simple type theory, and Quine’s New Foundations (NF). NF works by restricting comprehension to stratifiable formulae; those in which variables can be assigned ‘levels’, which are natural numbers, such that if a ∈ b occurs and a has level n, then b must have level n+1. Russell’s example is ruled out because a ∉ a cannot be stratified. Consistency of NF has been an open problem since it was proposed by Quine in 1937.  I will present a claimed proof of consistency of Quine’s NF (the paper is available from www.gabbay.org.uk/papers.html and on arXiv, and is under review). In use, NF feels more like a simple type theory than it does a set theory, and there are deep reasons for this which come out in my proof.  My proof, while ostensibly about set theory, is actually about applying ideas from rewriting and computing to ideas from set theory, along with a pinch of non-Tarskian thinking about what binders (including forall and lambda) are. In my talk I will present the proof with an emphasis on the implications that this specific result has more generally for the theory of computing.
 
 ### [Simon Fowler](http://simonjf.com/) (Edinburgh)
 
-#### Relating Channels and Actor-based Languages in Concurrent Lambda-Calculi
+#### [Relating Channels and Actor-based Languages in Concurrent Lambda-Calculi](slides/Fowler.pdf)
 
 To aid the development of highly-concurrent and distributed systems,
 communication-centric programming languages take communication and
@@ -68,7 +68,7 @@ that both translations are type- and semantics-preserving.
 
 ### [Martin Ward](http://www.tech.dmu.ac.uk/~mward/) (De Montfort University)
 
-#### Provably Correct Transformation of Specifications into Programs
+#### [Provably Correct Transformation of Specifications into Programs](slides/Ward.pdf)
 
 This talk will introduce the transformational programming method
 of algorithm derivation. This starts with a formal specification
@@ -89,7 +89,7 @@ up to the development of large and complex software systems.
 
 ### [Jan de Muijnck-Hughes](https://jfdm.github.io/) (St Andrews)
 
-#### Type-Driven Design of Communicating Systems using Idris
+#### [Type-Driven Design of Communicating Systems using Idris](slides/deMuijnck-Hughes.pdf)
 
 The idea of communicating systems is a cornerstone of modern technology that allows heterogeneous collections of components to communicate through well-defined communication patterns.
 However, there is a disconnect between the tooling and languages used to design, implement and reason about communication protocols.
@@ -104,7 +104,7 @@ Given time future work will also be presented detailing our next steps in linkin
 
 ### [Craig McLaughlin](http://homepages.inf.ed.ac.uk/s1544843/) (Edinburgh)
 
-#### The essence of Frank programming
+#### [The essence of Frank programming](slides/McLaughlin.pdf)
 
 Frank is a strict functional language supporting algebraic effects
 (a la Plotkin & Power) and handlers (a la Plotkin & Pretnar) within an
