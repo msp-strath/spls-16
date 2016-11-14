@@ -21,19 +21,19 @@ via the [SPLS Mailing List](https://mr1.dcs.gla.ac.uk/mailman/listinfo/spls).
 
 ## Programme
 
-|When   | What                                                                                          |
-|-------|-----------------------------------------------------------------------------------------------|
-| 12.00 | Lunch (provided)                                                                              |
-| 13.00 | Consistency of Quine's NF using nominal techniques - Jamie Gabbay                             |
-| 14.00 | Coffee                                                                                        |
-| 14.30 | Relating Channels and Actor-based Languages in Concurrent Lambda-Calculi - Simon Fowler       |
-| 15.00 | Provably Correct Transformation of Specifications into Programs - Martin Ward                 |
-| 15.30 | Update on new SICSA Research Themes and funding - Katya Komendantskaya                        |
-| 15.45 | Coffee                                                                                        |
-| 16.15 | Type-Driven Design of Communicating Systems using Idris - Jan de Muijnck-Hughes               |
-| 16.45 | The essence of Frank programming - Craig McLaughlin                                           |
-| 17.15 | Irrelevant classical logic in Agda - Stephen Dolan                                            |
-| 17.45 | Pub                                                                                           |
+|When   | What                                                                                                                 |
+|-------|----------------------------------------------------------------------------------------------------------------------|
+| 12.00 | Lunch (provided)                                                                                                     |
+| 13.00 | Consistency of Quine's NF using nominal techniques - Jamie Gabbay [[slides](slides/Gabbay.pdf)]                      |
+| 14.00 | Coffee                                                                                                               |
+| 14.30 | Relating Channels and Actor-based Languages in Concurrent Lambda-Calculi - Simon Fowler [[slides](slides/Fowler.pdf)]|
+| 15.00 | Provably Correct Transformation of Specifications into Programs - Martin Ward [[slides](slides/Ward.pdf)]            |
+| 15.30 | Update on new SICSA Research Themes and funding - Katya Komendantskaya                                               |
+| 15.45 | Coffee                                                                                                               |
+| 16.15 | Type-Driven Design of Communicating Systems using Idris - Jan de Muijnck-Hughes [[slides](slides/deMuijnck-Hughes.pdf)]                |
+| 16.45 | The essence of Frank programming - Craig McLaughlin [[slides](slides/McLaughlin.pdf)]                                |
+| 17.15 | Irrelevant classical logic in Agda - Stephen Dolan                                                                   |
+| 17.45 | Pub                                                                                                                  |
 
 ## Abstracts
 
